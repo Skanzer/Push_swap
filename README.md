@@ -1,8 +1,8 @@
-# Chapter III
+# Chapter I
 ## Objectives
 Writing a sorting algorithm is always a very important step in a developer’s journey. It is often the first encounter with the concept of complexity. Sorting algorithms and their complexity are part of the classic questions discussed during job interviews. It’s probably a good time to look at these concepts since you’ll have to face them at some point. The learning objectives of this project are rigor, use of C, and use of basic algorithms, especially focusing on their complexity.
 
-# Chapter IV
+# Chapter II
 ## Common Instructions
 - Your project must be written in C.
 - Your project must be written in accordance with the Norm. If you have bonus files/functions, they are included in the norm check and you will receive a 0 if there is a norm error inside.
@@ -15,7 +15,7 @@ Writing a sorting algorithm is always a very important step in a developer’s j
 - We encourage you to create test programs for your project even though this work won’t have to be submitted and won’t be graded. It will give you a chance to easily test your work and your peers’ work. You will find those tests especially useful during your defense. Indeed, during defense, you are free to use your tests and/or the tests of the peer you are evaluating.
 - Submit your work to your assigned git repository. Only the work in the git repository will be graded. If Deepthought is assigned to grade your work, it will be done after your peer-evaluations. If an error happens in any section of your work during Deepthought’s grading, the evaluation will stop.
 
-# Chapter V
+# Chapter III
 ## Mandatory part
 ### The rules
 - You have 2 stacks named a and b.
